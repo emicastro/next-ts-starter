@@ -1,7 +1,7 @@
 {
   "name": "next-ts-starter",
   "version": "1.0.0",
-  "description": "NextJS starter with TypeScript and Tailwind !",
+  "description": "Ready to use Next JS starter with Tailwind and TypeScript support",
   "main": "index.js",
   "author": "Emilio Castro",
   "license": "MIT",
