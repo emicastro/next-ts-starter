@@ -1,0 +1,11 @@
+{
+  "name": "next-ts-starter",
+  "version": "1.0.0",
+  "description": "NextJS starter with TypeScript and Tailwind !",
+  "main": "index.js",
+  "author": "Emilio Castro",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
