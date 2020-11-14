@@ -5,6 +5,6 @@ module.exports = {
   },
   webpack: (config) => {
     // extend your webpack configuration here
-    return config;
-  }
+    return config
+  },
 }
